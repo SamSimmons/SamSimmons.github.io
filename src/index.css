@@ -1,0 +1,15 @@
+:root {
+  --primary: #1DE6E8;
+  --secondary: #FF7F9B;
+  --text: #575353;
+  --sans: 'PT Sans', san-serif;
+  --serif: 'Cormorant', serif;
+}
+
+body {
+  background: var(--primary);
+  color: var(--text);
+  font-family: var(--serif);
+  margin: 0;
+  padding: 0;
+}
